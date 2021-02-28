@@ -1,0 +1,16 @@
+Playground Instance
+//Attributes
+isOpen = false;
+size = 200;
+name = "Calvin S. Smith Elementary Playground";
+equipment = ["Monkey-Bars", "Slide", "Horsey", "Foam-Pit"];
+//Methods
+close(sets isOpen = false;)
+expand() size = 700;
+rename ("Best Playground" renames the playground)
+addEquipment(add "jump")
+equipment = ["Monkey-Bars", "Slide", "Horsey", "Foam-Pit", "jump"]
+destroyEquipment(removes "Foam Pit" from the equipment array)
+equipment = ["Monkey-Bars", "Slide", "Horsey", "jump"]
+weather(reduces the size of the playground)
+size = 650;
