@@ -1,0 +1,14 @@
+Basketball Instance
+
+//attributes
+isBall = true;
+colors = ["Orange", "Black"];
+numEquipment = 15;
+isBroken = false;
+weight = 2.3;
+
+//Methods
+checkBall (sets isBall true)
+paint (modifies the colors array to ["Orange", "Black", "White"])
+break (numEquipment is decremented to 14)
+studentSitsOnEquipment (increases weight by 50 lbs.)
