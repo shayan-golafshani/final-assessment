@@ -1,0 +1,13 @@
+Class PEEquipment
+
+//Attributes
+isBall (bool)
+colors (arr)
+numEquipment (int)
+isBroken (bool)
+weight (float)
+//Methods
+checkBall (sets isBall true)
+paint (modifies the colors array)
+break (numEquipment is decremented by 1)
+studentSitsOnEquipment (increases weight by student weight)
