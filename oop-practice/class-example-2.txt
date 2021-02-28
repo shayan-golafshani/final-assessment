@@ -1,0 +1,13 @@
+Playground Class
+//Attributes
+isOpen (bool)
+size (float)
+name (string)
+equipment (arr)
+//Methods
+close(sets is open to false)
+expand(increases size by 500 sq ft.)
+rename (changes the name of the playground to the new string)
+addEquipment(adds new piece of equipment like "monkey-bars" to the equipment array)
+destroyEquipment(removes piece of equipment like "swings" from the equipment array)
+weather(reduces the size of the playground)
